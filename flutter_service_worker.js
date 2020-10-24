@@ -6,11 +6,11 @@ const RESOURCES = {
   "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "main.dart.js": "d442166fb6dec75ad74a029a1c54e5ed",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "ee46c3b5c9f21ead637e489c91bfd715",
+"https://sachinkum0009.github.io/web-app/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"https://sachinkum0009.github.io/web-app/assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"https://sachinkum0009.github.io/web-app/assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"https://sachinkum0009.github.io/web-app/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"https://sachinkum0009.github.io/web-app/assets/NOTICES": "ee46c3b5c9f21ead637e489c91bfd715",
 "manifest.json": "bb89e38a42d0189a3e38f70065f681f9",
 "version.json": "0b176dcb82d0a3851a8fbf28e1665f31",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -24,9 +24,9 @@ const CORE = [
   "/",
 "main.dart.js",
 "index.html",
-"assets/NOTICES",
-"assets/AssetManifest.json",
-"assets/FontManifest.json"];
+"https://sachinkum0009.github.io/web-app/assets/NOTICES",
+"https://sachinkum0009.github.io/web-app/assets/AssetManifest.json",
+"https://sachinkum0009.github.io/web-app/assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
